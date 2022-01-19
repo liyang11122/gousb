@@ -16,7 +16,7 @@
 package gousb
 
 // #include <libusb.h>
-import "C"
+// import "C"
 import "strconv"
 
 // Class represents a USB-IF (Implementers Forum) class or subclass code.
